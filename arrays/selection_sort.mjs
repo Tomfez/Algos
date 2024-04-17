@@ -1,3 +1,6 @@
+/**
+ * Tri par sélection: tri instable de complexité O(n²)
+ */
 const arr = [11, 15, 22, 1, 3, 6]
 
 function selectionSort(arr) {

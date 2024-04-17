@@ -1,3 +1,6 @@
+/**
+ * Tri à bulles: tri stable de complexité O(n²)
+ */
 const arr = [11, 15, 22, 1, 3, 6]
 
 function bubbleSort(arr) {
